@@ -1,0 +1,8 @@
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\bin\Debug\Knjiznica1.exe.config
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\bin\Debug\Knjiznica1.exe
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\bin\Debug\Knjiznica1.pdb
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\obj\Debug\Knjiznica1.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\obj\Debug\Knjiznica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\obj\Debug\Knjiznica1.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\obj\Debug\Knjiznica1.exe
+C:\Users\ivang\Desktop\Knjiznica1\Knjiznica1\obj\Debug\Knjiznica1.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivang\Desktop\Glasanje\Glasanje\bin\Debug\Glasanje.exe.config
+C:\Users\ivang\Desktop\Glasanje\Glasanje\bin\Debug\Glasanje.exe
+C:\Users\ivang\Desktop\Glasanje\Glasanje\bin\Debug\Glasanje.pdb
+C:\Users\ivang\Desktop\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Glasanje\Glasanje\obj\Debug\Glasanje.exe
+C:\Users\ivang\Desktop\Glasanje\Glasanje\obj\Debug\Glasanje.pdb

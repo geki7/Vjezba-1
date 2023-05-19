@@ -1,0 +1,8 @@
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\bin\Debug\BankovnaTransakcija.exe.config
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\bin\Debug\BankovnaTransakcija.exe
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\bin\Debug\BankovnaTransakcija.pdb
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\obj\Debug\BankovnaTransakcija.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\obj\Debug\BankovnaTransakcija.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\obj\Debug\BankovnaTransakcija.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\obj\Debug\BankovnaTransakcija.exe
+C:\Users\ivang\Desktop\BankovnaTransakcija\BankovnaTransakcija\obj\Debug\BankovnaTransakcija.pdb

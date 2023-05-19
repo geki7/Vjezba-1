@@ -1,0 +1,8 @@
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\bin\Debug\BodoviNaVjezbama.exe.config
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\bin\Debug\BodoviNaVjezbama.exe
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\bin\Debug\BodoviNaVjezbama.pdb
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\obj\Debug\BodoviNaVjezbama.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\obj\Debug\BodoviNaVjezbama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\obj\Debug\BodoviNaVjezbama.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\obj\Debug\BodoviNaVjezbama.exe
+C:\Users\ivang\Desktop\BodoviNaVjezbama\BodoviNaVjezbama\obj\Debug\BodoviNaVjezbama.pdb
